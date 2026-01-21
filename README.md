@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋, I'm Rihab 
 
-<!--
-**rihab-belhadj/rihab-belhadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student in Data Science  
+💡 Junior Data Science Engineer | AI & Software Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a **Data Science Engineering student** with solid foundations in **data analysis, machine learning, and software development**.  
+I enjoy transforming complex datasets into **actionable insights** and building **data-driven applications** that solve real-world problems.
+
+I am particularly interested in:
+- Artificial Intelligence & Machine Learning
+- Data Visualization & Decision Support
+- NLP, Deep Learning, and LLM-based systems
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming, Frameworks, Data & Tools
+![My Skills](https://skillicons.dev/icons?i=python,java,php,r,c,html,css,js,react,nodejs,symfony,spring,dotnet,flutter,mongodb,mysql,git,github,azure)
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/rihab-belhadj  
+- 📧 Email: Rihab.BenHadjSlimen@esprit.tn  
